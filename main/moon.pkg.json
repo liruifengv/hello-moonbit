@@ -1,0 +1,7 @@
+{
+  "is_main": true,
+  "import": [
+    "moon-hello//lib",
+    "moon-hello//lib/fib"
+  ]
+}
